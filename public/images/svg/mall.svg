@@ -1,0 +1,30 @@
+<svg id="svg8"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="800" viewBox="0 0 1200 800">
+    <defs>
+        <image id="image" width="7" height="7" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAACXBIWXMAAAsSAAALEgHS3X78AAAAFUlEQVQIW2NkYGD4z4ADMOGSGJSSAMyRAQ0K/EA1AAAAAElFTkSuQmCC" />
+    </defs>
+    <g id="landmarks-shops">
+        <polygon id="ffinstitches" points="476.08 148.14 460.92 163.3 429.28 131.54 444.44 116.38 476.08 148.14" fill="#61b9e8" stroke="#fff" />
+        <polygon id="ffavilas" points="491.67 132.55 476.08 148.14 444.44 116.38 459.97 100.85 491.67 132.55" fill="#61b9e8" stroke="#fff" />
+        <polygon id="ffmazemirrors" points="377.1 410.79 401.36 435.15 410.08 426.47 385.8 402.09 377.1 410.79" fill="#61b9e8" stroke="#fff" stroke-miterlimit="10" />
+        <polygon id="ffbobacaffe" points="641.34 529.22 673.25 529.22 673.25 539.74 641.34 539.77 641.34 529.22" fill="#61b9e8" stroke="#fff" />
+        <path id="lgfvvwq" d="M531.71,96.51,500,128.06V229.21h5.24l2.54-2.53L525,209.57V184h3V142.39h3.74Z" fill="#61b9e8" stroke="#fff" stroke-width="1.32" />
+        <rect id="rect3341" x="760.73" y="435.92" width="7.85" height="26.34" fill="#2b3b97" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.32" />
+    </g>
+    <g id="nopointer_text">
+        <g id="text1146" style="isolation: isolate">
+            <text transform="translate(466.41 622.5)" font-size="13" fill="#fff" font-family="Lato-Heavy, Lato" font-weight="800" style="isolation: isolate">PINS ENTE<tspan x="65.23" y="0" letter-spacing="-0.02em">R</tspan>
+                <tspan x="73.45" y="0" letter-spacing="-0.07em">T</tspan>
+                <tspan x="80.38" y="0">AINMEN</tspan>
+                <tspan x="133.39" y="0" letter-spacing="-0.03em">T</tspan>
+            </text>
+        </g>
+        <g id="text1536" style="isolation: isolate">
+            <text transform="translate(801.74 638.72)" font-size="9" fill="#fff" font-family="Lato-Heavy, Lato" font-weight="800" style="isolation: isolate">HOMEB<tspan x="33.96" y="0" letter-spacing="-0.03em">O</tspan>
+                <tspan x="41.03" y="0">X</tspan>
+            </text>
+        </g>
+
+    </g>
+</svg>
